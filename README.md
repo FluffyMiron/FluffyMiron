@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, this is Miron! 👋
 
-<!--
-**FluffyMiron/FluffyMiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I do
+- 💻 I am a C++ main
+- ⌨️ I love to write exotic meta code (and make the compiler scream)
+- ⚙️ Big into (anti-) reverse engineering
+- 🧠 I do some Machine Learning
+- ⚡ GO FAST
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My languages
+- C/C++
+- ASM
+- Python (for tooling in builds)
